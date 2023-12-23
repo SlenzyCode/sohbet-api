@@ -1,2 +1,5 @@
-# sohbet-api
-SlenzyCode - Basit AI Api Mantığı.
+# Sohbet Api
+
+## Kullanımı
+**Visual Studio Code giriniz.**
+**a**
