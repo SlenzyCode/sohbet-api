@@ -1,0 +1,16 @@
+{
+  "name": "slenzycode",
+  "version": "0.0.1",
+  "description": "SlenzyCode - Basit AI Api Mantığı.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [],
+  "author": "slenzycode",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hercai": "^11.1.3"
+  }
+}
